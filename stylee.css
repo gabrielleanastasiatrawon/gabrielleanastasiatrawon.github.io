@@ -1,0 +1,109 @@
+body {
+    padding-bottom:0.1em;
+    background-color:bisque;
+}
+
+#head {
+    padding-bottom: 0.1em;
+    padding-top: 0.5em;
+    font-family: times new roman;
+    background-color: black;
+}
+
+a {
+    color:white;
+}
+
+#ab {
+    font-family: palm canyon drive;
+    font-size: 60px;
+}
+
+#about {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    font-family: times new roman;
+}
+
+#io {
+    font-size: 10px;
+}
+
+#f, #g {
+    padding-bottom: 1em;
+}
+
+#ro {
+    font-style: italic;
+    color: black;
+    font-size: 20px;
+}
+
+#author {
+    font-family: palm canyon drive;
+    font-size: 60px;
+}
+
+#contact {
+    font-family: times new roman;
+    background-color: maroon;
+    color: antiquewhite;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+#note {
+    font-size: 12px;
+}
+
+#diary {
+    font-family: palm canyon drive;
+}
+
+#diaryy {
+    padding-bottom: 0.5em;
+    padding-top: 0.1em;
+    font-size: 80px;
+}
+
+#my {
+    font-family: times new roman;
+    font-style: italic;
+    text-indent: 50px;
+    padding-bottom: 1em;
+}
+
+#d {
+    padding-bottom: 2em
+}
+
+#margyu, #fam, #fren {
+    font-family: times new roman;
+}
+
+#rpic {
+    padding-top: 2em;
+    padding-bottom: 0.5em;
+}
+
+#rhead {
+    padding-bottom: 3em;
+    font-family: palm canyon drive;
+    font-size: 60px;
+}
+
+#ref {
+    font-size: 10px;
+    font-style: italic;
+    color: black;
+}
+
+#reou {
+    text-indent: 50px;
+}
+
+#rea {
+    padding-bottom: 2em;
+    font-family: times new roman;
+    font-style: italic;
+}
